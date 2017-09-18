@@ -172,7 +172,7 @@ body {
 }
 .user-projects {
  margin: 20px auto;
- border-block-start: dashed 2px;
+ border-top: dashed 2px;
 }
 .user-projects img {
  max-width:80%;
@@ -180,7 +180,7 @@ body {
  border-radius:5px;
  margin-top: 5px;
 }
-.user-projects h5,body {
+.user-projects h5{
  margin-top: 5px;
 }
 .user-projects li {
@@ -197,6 +197,7 @@ body {
  }
 }
 .project-link {
+ display: inline-flex;
  width:20px;
  height:20px;
  margin:1px 0;
@@ -222,7 +223,7 @@ body {
 .footer {
  background:#1a222c;
  padding:10px 0;
- margin-top:100px;
+ margin-top:10px;
  text-align:center;
  color:#fff
 }
