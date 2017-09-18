@@ -5,7 +5,7 @@ description: カレンダーベースのアラームアプリケーション
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Okirotakana(仮称)
+username: Okirotanaka(仮称)
 user_description: 勤務予定をみて一括でアラームをかけたいと思った事はありませんか？</br>そんなあなたに新しいカレンダーベースのアラームアプリの提案です。そのうちリリース予定！
 user_title: カレンダーベースのアラームアプリケーション
 email: dragon-egg@onakahetta.com
