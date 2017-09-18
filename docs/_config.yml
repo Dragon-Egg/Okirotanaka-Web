@@ -1,11 +1,11 @@
 # Site settings
-title: Okirotakana(仮称)
+title: Okirotakana
 description: カレンダーベースのアラームアプリケーション
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Dragon-Egg
+username: Okirotakana(仮称)
 user_description: 勤務予定をみて一括でアラームをかけたいと思った事はありませんか？</br>そんなあなたに新しいカレンダーベースのアラームアプリの提案です。そのうちリリース予定！
 user_title: カレンダーベースのアラームアプリケーション
 email: dragon-egg@onakahetta.com
