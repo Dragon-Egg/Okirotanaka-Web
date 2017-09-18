@@ -1,2 +1,2 @@
-# OkiroTanaka
-## https://dragon-egg.github.io/tanakaokite/
+# Okirotanaka
+## https://dragon-egg.github.io/Okirotanaka/
