@@ -1,0 +1,3 @@
+[submodule "doc/particle"]
+	path = doc/particle
+	url = https://github.com/nrandecker/particle.git
